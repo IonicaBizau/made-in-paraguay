@@ -48,7 +48,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -214,6 +215,39 @@
               "2",
               "[@alefq](https://github.com/alefq)/[**asistente-eventos**](https://github.com/alefq/asistente-eventos)",
               "Prueba de aplicación tekoporu",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@Daniel25A](https://github.com/Daniel25A)/[**Sistemas**](https://github.com/Daniel25A/Sistemas)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@lopezbertoni](https://github.com/lopezbertoni)/[**SampleAspNetCoreApp**](https://github.com/lopezbertoni/SampleAspNetCoreApp)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lopezbertoni](https://github.com/lopezbertoni)/[**PrintMonitor**](https://github.com/lopezbertoni/PrintMonitor)",
+              "App to monitor printer problems",
               ""
             ]
           ]
