@@ -52,7 +52,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -314,6 +315,33 @@
               "2",
               "[@flopezpires](https://github.com/flopezpires)/[**iMaVMP**](https://github.com/flopezpires/iMaVMP)",
               "Interactive Memetic Algorithm for Virtual Machine Placement (iMAVMP)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "12",
+              "[@garyservin](https://github.com/garyservin)/[**serial-example**](https://github.com/garyservin/serial-example)",
+              "Simple use of http://wjwwood.io/serial/ library with ROS",
+              ""
+            ],
+            [
+              "4",
+              "[@chilabot](https://github.com/chilabot)/[**chila**](https://github.com/chilabot/chila)",
+              "Chila's Tools",
               ""
             ]
           ]
