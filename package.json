@@ -53,7 +53,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[Go](#go)"
         ]
       },
       {
@@ -342,6 +343,63 @@
               "4",
               "[@chilabot](https://github.com/chilabot)/[**chila**](https://github.com/chilabot/chila)",
               "Chila's Tools",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "60",
+              "[@matiasinsaurralde](https://github.com/matiasinsaurralde)/[**transports**](https://github.com/matiasinsaurralde/transports)",
+              "A HTTP proxy that aims to support different transports.",
+              ""
+            ],
+            [
+              "14",
+              "[@matiasinsaurralde](https://github.com/matiasinsaurralde)/[**go-web-shell**](https://github.com/matiasinsaurralde/go-web-shell)",
+              "Simple web shell (+web server). Got it running on a rooted Android (checkout Makefile for ARM settings).",
+              "[:arrow_upper_right:](http://lomitologia.blogspot.com/2013/07/200713-dotpad-dt-730-china-telecom.html)"
+            ],
+            [
+              "10",
+              "[@matiasinsaurralde](https://github.com/matiasinsaurralde)/[**cgo-channels**](https://github.com/matiasinsaurralde/cgo-channels)",
+              "A quick program to explore the idea of sending data to a Go channel from C.",
+              ""
+            ],
+            [
+              "6",
+              "[@matiasinsaurralde](https://github.com/matiasinsaurralde)/[**loudp2p**](https://github.com/matiasinsaurralde/loudp2p)",
+              "Experimental peer to peer network for music streaming.",
+              ""
+            ],
+            [
+              "5",
+              "[@matiasinsaurralde](https://github.com/matiasinsaurralde)/[**go-dbscan**](https://github.com/matiasinsaurralde/go-dbscan)",
+              "Some implementation of DBSCAN",
+              ""
+            ],
+            [
+              "4",
+              "[@matiasinsaurralde](https://github.com/matiasinsaurralde)/[**sl**](https://github.com/matiasinsaurralde/sl)",
+              "Intérprete experimental de SL, basado en Go.",
+              ""
+            ],
+            [
+              "3",
+              "[@matiasinsaurralde](https://github.com/matiasinsaurralde)/[**go-lua-benchmark**](https://github.com/matiasinsaurralde/go-lua-benchmark)",
+              "Comparing the performance of LuaJIT embedded in Go.",
               ""
             ]
           ]
