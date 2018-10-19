@@ -51,7 +51,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -292,6 +293,27 @@
               "5",
               "[@kitsunelli](https://github.com/kitsunelli)/[**fsociety-cv**](https://github.com/kitsunelli/fsociety-cv)",
               "A curriculum vitae (résumé) template for the fsociety's volunteers.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@flopezpires](https://github.com/flopezpires)/[**iMaVMP**](https://github.com/flopezpires/iMaVMP)",
+              "Interactive Memetic Algorithm for Virtual Machine Placement (iMAVMP)",
               ""
             ]
           ]
