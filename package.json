@@ -58,7 +58,8 @@
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -908,6 +909,33 @@
               "2",
               "[@kennym](https://github.com/kennym)/[**ballin-lana**](https://github.com/kennym/ballin-lana)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@neowinx](https://github.com/neowinx)/[**play-scala-bootstrap**](https://github.com/neowinx/play-scala-bootstrap)",
+              "Basic template for Play framework with Twitter Bootstrap 3.0",
+              ""
+            ],
+            [
+              "2",
+              "[@zv3](https://github.com/zv3)/[**sjs-react-server-pre…**](https://github.com/zv3/sjs-react-server-prerender)",
+              "japgolly's scalajs-react running on a remote nodejs environment for server side rendering (proof of concept)",
               ""
             ]
           ]
