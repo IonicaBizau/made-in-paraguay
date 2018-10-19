@@ -50,7 +50,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -271,6 +272,27 @@
               "[@wcs](https://github.com/wcs)/[**tepid**](https://github.com/wcs/tepid)",
               "Theme I use in my blog",
               "[:arrow_upper_right:](http://wcsantos.com)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5",
+              "[@kitsunelli](https://github.com/kitsunelli)/[**fsociety-cv**](https://github.com/kitsunelli/fsociety-cv)",
+              "A curriculum vitae (résumé) template for the fsociety's volunteers.",
+              ""
             ]
           ]
         }
