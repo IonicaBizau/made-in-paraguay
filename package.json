@@ -56,7 +56,8 @@
           "[C++](#c-2)",
           "[Go](#go)",
           "[Objective-C](#objective-c)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -678,6 +679,147 @@
               "2",
               "[@crodas](https://github.com/crodas)/[**old-Tuicha**](https://github.com/crodas/old-Tuicha)",
               "Simple mongodb abstraction for PHP. Tuicha means huge (humongous) in Guarani.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "72",
+              "[@Karlheinzniebuhr](https://github.com/Karlheinzniebuhr)/[**pythonbenchmark**](https://github.com/Karlheinzniebuhr/pythonbenchmark)",
+              "A simple Python Benchmark Library",
+              ""
+            ],
+            [
+              "8",
+              "[@tchx84](https://github.com/tchx84)/[**twitter-gobject**](https://github.com/tchx84/twitter-gobject)",
+              "twitter-gobject allows you access Twitter's 1.1 REST API via a set of GObject based objects for easy integration with your GLib2 based code.",
+              ""
+            ],
+            [
+              "5",
+              "[@Karlheinzniebuhr](https://github.com/Karlheinzniebuhr)/[**torshammer**](https://github.com/Karlheinzniebuhr/torshammer)",
+              "A DOS attack",
+              ""
+            ],
+            [
+              "4",
+              "[@tchx84](https://github.com/tchx84)/[**grtk**](https://github.com/tchx84/grtk)",
+              "Set of convenience scripts that allows developers to interact with redmine from CLI",
+              ""
+            ],
+            [
+              "4",
+              "[@joausaga](https://github.com/joausaga)/[**reportbytwitter**](https://github.com/joausaga/reportbytwitter)",
+              "Platform for collecting citizens' ideas and opinions about public interest issues through hashtag-supported social networks, such as Twitter, Facebook, Google Plus.",
+              ""
+            ],
+            [
+              "4",
+              "[@Karlheinzniebuhr](https://github.com/Karlheinzniebuhr)/[**Scrap.py**](https://github.com/Karlheinzniebuhr/Scrap.py)",
+              "Para descargar datos publicos y así concientizar sobre la protección de datos",
+              ""
+            ],
+            [
+              "4",
+              "[@tchx84](https://github.com/tchx84)/[**repotools**](https://github.com/tchx84/repotools)",
+              "Helper scripts to manage chaotic rpm package repositories",
+              ""
+            ],
+            [
+              "3",
+              "[@tchx84](https://github.com/tchx84)/[**bundletools**](https://github.com/tchx84/bundletools)",
+              "Set of scripts to run your own Sugar bundles update server",
+              ""
+            ],
+            [
+              "3",
+              "[@joausaga](https://github.com/joausaga)/[**social-ideation**](https://github.com/joausaga/social-ideation)",
+              "Application that connects idea management platforms with general purpose social networks",
+              "[:arrow_upper_right:](http://www.social-ideation.com)"
+            ],
+            [
+              "3",
+              "[@tchx84](https://github.com/tchx84)/[**grestful**](https://github.com/tchx84/grestful)",
+              "gRESTful helps you integrate RESTful web services with your Glib2 code",
+              ""
+            ],
+            [
+              "3",
+              "[@Karlheinzniebuhr](https://github.com/Karlheinzniebuhr)/[**XOR-encryption-demo**](https://github.com/Karlheinzniebuhr/XOR-encryption-demo)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ggimenez](https://github.com/ggimenez)/[**IS2-IMPLEMENTACION**](https://github.com/ggimenez/IS2-IMPLEMENTACION)",
+              "Trabajo Práctico de IS2 2011 - Pedro - Tony - Gabriel",
+              ""
+            ],
+            [
+              "2",
+              "[@rparrapy](https://github.com/rparrapy)/[**sugar**](https://github.com/rparrapy/sugar)",
+              "The Sugar desktop, with speech recognition support.",
+              ""
+            ],
+            [
+              "2",
+              "[@joausaga](https://github.com/joausaga)/[**ideascaly**](https://github.com/joausaga/ideascaly)",
+              "IdeaScale RESTful API client written in Python",
+              ""
+            ],
+            [
+              "2",
+              "[@rparrapy](https://github.com/rparrapy)/[**sugarlistens-livedem…**](https://github.com/rparrapy/sugarlistens-livedemo)",
+              "A very simple Sugar Activity for speech recognition testing purposes.",
+              ""
+            ],
+            [
+              "2",
+              "[@rparrapy](https://github.com/rparrapy)/[**wrangler**](https://github.com/rparrapy/wrangler)",
+              "Utility script to convert a given CSV file to geojson. Just tell it where the geo data is and let the magic happen.",
+              ""
+            ],
+            [
+              "2",
+              "[@tchx84](https://github.com/tchx84)/[**gpaste**](https://github.com/tchx84/gpaste)",
+              "Use fedora pastebin service in your Glib2 code",
+              ""
+            ],
+            [
+              "2",
+              "[@tchx84](https://github.com/tchx84)/[**magic-store**](https://github.com/tchx84/magic-store)",
+              "Proof of concept for a network file system based on fuse and xmlrpc",
+              ""
+            ],
+            [
+              "2",
+              "[@tchx84](https://github.com/tchx84)/[**turtleblocksjs-serve…**](https://github.com/tchx84/turtleblocksjs-server)",
+              "storage server for javascript turtle blocks",
+              ""
+            ],
+            [
+              "2",
+              "[@czayas](https://github.com/czayas)/[**agenda**](https://github.com/czayas/agenda)",
+              "Proyecto de ejemplo para la asignatura Paradigmas de la Programación",
+              ""
+            ],
+            [
+              "2",
+              "[@tchx84](https://github.com/tchx84)/[**analytics-server**](https://github.com/tchx84/analytics-server)",
+              "",
               ""
             ]
           ]
