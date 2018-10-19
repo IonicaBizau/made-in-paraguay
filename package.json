@@ -59,7 +59,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -936,6 +937,39 @@
               "2",
               "[@zv3](https://github.com/zv3)/[**sjs-react-server-pre…**](https://github.com/zv3/sjs-react-server-prerender)",
               "japgolly's scalajs-react running on a remote nodejs environment for server side rendering (proof of concept)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "51",
+              "[@AppsBoulevard](https://github.com/AppsBoulevard)/[**ABVideoRangeSlider**](https://github.com/AppsBoulevard/ABVideoRangeSlider)",
+              "Simple video range slider written in Swift 3",
+              ""
+            ],
+            [
+              "7",
+              "[@AppsBoulevard](https://github.com/AppsBoulevard)/[**VideoEditorExample**](https://github.com/AppsBoulevard/VideoEditorExample)",
+              "A Swift 3 project example, using ABVideoRangeSlider.",
+              ""
+            ],
+            [
+              "6",
+              "[@guarani](https://github.com/guarani)/[**Collapsible-UINaviga…**](https://github.com/guarani/Collapsible-UINavigationBar)",
+              "A collapsible UINavigationBar",
               ""
             ]
           ]
