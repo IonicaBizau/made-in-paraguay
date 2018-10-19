@@ -47,7 +47,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -168,6 +169,51 @@
               "2",
               "[@roskoff](https://github.com/roskoff)/[**olimpianextmatch**](https://github.com/roskoff/olimpianextmatch)",
               "Extensión para Google Chrome que muestra el siguiente partido de Olimpia, con información relevante (precios de entradas, horarios, adversario, etc.)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@jencisopy](https://github.com/jencisopy)/[**JavaBeanStack**](https://github.com/jencisopy/JavaBeanStack)",
+              "Framework para construcción de aplicaciones Java EE 7",
+              ""
+            ],
+            [
+              "3",
+              "[@hofmanndavid](https://github.com/hofmanndavid)/[**easylayout**](https://github.com/hofmanndavid/easylayout)",
+              "Completely unorthodox but extremely productive API wrappers for Vaadin Layouts",
+              ""
+            ],
+            [
+              "3",
+              "[@pablo](https://github.com/pablo)/[**raf**](https://github.com/pablo/raf)",
+              "Roshka API Framework",
+              ""
+            ],
+            [
+              "3",
+              "[@pablo](https://github.com/pablo)/[**NumberTextWatcher**](https://github.com/pablo/NumberTextWatcher)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@alefq](https://github.com/alefq)/[**asistente-eventos**](https://github.com/alefq/asistente-eventos)",
+              "Prueba de aplicación tekoporu",
               ""
             ]
           ]
