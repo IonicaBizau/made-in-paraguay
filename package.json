@@ -57,7 +57,8 @@
           "[Go](#go)",
           "[Objective-C](#objective-c)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -819,6 +820,93 @@
             [
               "2",
               "[@tchx84](https://github.com/tchx84)/[**analytics-server**](https://github.com/tchx84/analytics-server)",
+              "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "15",
+              "[@kennym](https://github.com/kennym)/[**ideone-ruby-api**](https://github.com/kennym/ideone-ruby-api)",
+              "A better Ruby gem for the Ideone API",
+              "[:arrow_upper_right:](https://rubygems.org/gems/ideone-ruby-api)"
+            ],
+            [
+              "6",
+              "[@kennym](https://github.com/kennym)/[**annotate-sequel**](https://github.com/kennym/annotate-sequel)",
+              "Annotate your Sequel models",
+              ""
+            ],
+            [
+              "4",
+              "[@hisapy](https://github.com/hisapy)/[**UniBD**](https://github.com/hisapy/UniBD)",
+              "Repositorio para las clases de Laboratorio de Bases de Datos, Ing. Informática, Universidad Nacional de Itapúa - Encarnación, Paraguay",
+              ""
+            ],
+            [
+              "4",
+              "[@hisapy](https://github.com/hisapy)/[**uni-bd-2015**](https://github.com/hisapy/uni-bd-2015)",
+              "Laboratorio - Bases de Datos - Ingeniería Informática, UNI",
+              ""
+            ],
+            [
+              "4",
+              "[@hisapy](https://github.com/hisapy)/[**AdventureWorks2008R2…**](https://github.com/hisapy/AdventureWorks2008R2.RoR)",
+              "Ruby on Rails application on the SQL Server Adventure Works 2008 R2 database.",
+              ""
+            ],
+            [
+              "3",
+              "[@movihus](https://github.com/movihus)/[**gexip**](https://github.com/movihus/gexip)",
+              "Gestión de Expedientes para Instituciones Públicas",
+              ""
+            ],
+            [
+              "3",
+              "[@heimusica](https://github.com/heimusica)/[**hls-log-monitor**](https://github.com/heimusica/hls-log-monitor)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@hisapy](https://github.com/hisapy)/[**uni-bd-2013**](https://github.com/hisapy/uni-bd-2013)",
+              "Repositorio de las clases de Laboratorio de Bases de Datos del año 2013. Ingeniería Informática, Universidad Nacional de Itapúa.",
+              ""
+            ],
+            [
+              "3",
+              "[@kennym](https://github.com/kennym)/[**Blogger-to-Jekyll**](https://github.com/kennym/Blogger-to-Jekyll)",
+              "Convert Blogger articles to Jekyll markdown.",
+              ""
+            ],
+            [
+              "2",
+              "[@taniadaniela](https://github.com/taniadaniela)/[**calendar**](https://github.com/taniadaniela/calendar)",
+              "calendar for users",
+              ""
+            ],
+            [
+              "2",
+              "[@ParAgil](https://github.com/ParAgil)/[**Jahapa**](https://github.com/ParAgil/Jahapa)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@kennym](https://github.com/kennym)/[**ballin-lana**](https://github.com/kennym/ballin-lana)",
               "",
               ""
             ]
