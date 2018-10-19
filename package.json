@@ -39,5 +39,140 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-paraguay/issues"
+  },
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "19",
+              "[@camilojd](https://github.com/camilojd)/[**sequeljs**](https://github.com/camilojd/sequeljs)",
+              "SQL parser/formatter written in JavaScript",
+              ""
+            ],
+            [
+              "15",
+              "[@cabupy](https://github.com/cabupy)/[**node-cotizaciones**](https://github.com/cabupy/node-cotizaciones)",
+              "Es una API REST desarrollada en NODE.JS para obtener cotizaciones de casas de cambio. En paraguay.",
+              ""
+            ],
+            [
+              "8",
+              "[@luchobenitez](https://github.com/luchobenitez)/[**docscraperpy**](https://github.com/luchobenitez/docscraperpy)",
+              "Document scraper for .py, anything we can find on the web about documents",
+              ""
+            ],
+            [
+              "8",
+              "[@mbaez](https://github.com/mbaez)/[**bubbles-chart**](https://github.com/mbaez/bubbles-chart)",
+              "A javascript library to build bubble chart using d3 and d3plus",
+              ""
+            ],
+            [
+              "6",
+              "[@nemesiscodex](https://github.com/nemesiscodex)/[**openfonacide**](https://github.com/nemesiscodex/openfonacide)",
+              "Open Data platform for the fonacide project in Paraguay",
+              ""
+            ],
+            [
+              "5",
+              "[@mbaez](https://github.com/mbaez)/[**elastic-lists**](https://github.com/mbaez/elastic-lists)",
+              "A javascript library to build elastic lists",
+              ""
+            ],
+            [
+              "4",
+              "[@javierpelozo](https://github.com/javierpelozo)/[**notas**](https://github.com/javierpelozo/notas)",
+              ":notebook_with_decorative_cover: App sencilla para guardar y eliminar notas, etc. ",
+              ""
+            ],
+            [
+              "4",
+              "[@josego85](https://github.com/josego85)/[**curso_mapas**](https://github.com/josego85/curso_mapas)",
+              "Un curso sobre creación y desarrollo de mapas. La idea es aprender muchas cosas útiles sobre creación de mapas, configurar servidores de mapas, consumir datos OSM, etc; y que les sirva en su vida profesional.",
+              ""
+            ],
+            [
+              "4",
+              "[@nemesiscodex](https://github.com/nemesiscodex)/[**voting-app**](https://github.com/nemesiscodex/voting-app)",
+              "FreeCodeCamp Basejump: Build a Voting App",
+              "[:arrow_upper_right:](http://pollvot.herokuapp.com/)"
+            ],
+            [
+              "3",
+              "[@roskoff](https://github.com/roskoff)/[**nodesterappswatcher**](https://github.com/roskoff/nodesterappswatcher)",
+              "Simple extension to watch over your apps hosted on nodester.com!",
+              ""
+            ],
+            [
+              "3",
+              "[@josego85](https://github.com/josego85)/[**api-geo-paraguay**](https://github.com/josego85/api-geo-paraguay)",
+              "API GEO - Paraguay",
+              ""
+            ],
+            [
+              "3",
+              "[@mbaez](https://github.com/mbaez)/[**securityjs**](https://github.com/mbaez/securityjs)",
+              "JavaScript library to simplify the management of permissions on HTML&JavaScript applications.",
+              ""
+            ],
+            [
+              "2",
+              "[@nemesiscodex](https://github.com/nemesiscodex)/[**codein-chrome-leader…**](https://github.com/nemesiscodex/codein-chrome-leaderboard)",
+              "Unofficial google code-in leaderboard chrome extension",
+              ""
+            ],
+            [
+              "2",
+              "[@demianfe](https://github.com/demianfe)/[**react-toolbox-reactr…**](https://github.com/demianfe/react-toolbox-reactrouter-mocha-boilerplate)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ivankoop](https://github.com/ivankoop)/[**Mosquito-Attack-Game**](https://github.com/ivankoop/Mosquito-Attack-Game)",
+              "Global Game Jam 2018 game ",
+              ""
+            ],
+            [
+              "2",
+              "[@cmelgarejo](https://github.com/cmelgarejo)/[**api-proxy**](https://github.com/cmelgarejo/api-proxy)",
+              "Simple API Proxy project - no storage layer, proxies results from underlaying APIs",
+              ""
+            ],
+            [
+              "2",
+              "[@mbaez](https://github.com/mbaez)/[**front-seed**](https://github.com/mbaez/front-seed)",
+              "Frontend seed project, using bower and grunt.",
+              ""
+            ],
+            [
+              "2",
+              "[@roskoff](https://github.com/roskoff)/[**olimpianextmatch**](https://github.com/roskoff/olimpianextmatch)",
+              "Extensión para Google Chrome que muestra el siguiente partido de Olimpia, con información relevante (precios de entradas, horarios, adversario, etc.)",
+              ""
+            ]
+          ]
+        }
+      }
+    ]
   }
 }
