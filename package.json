@@ -55,7 +55,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[Go](#go)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -428,6 +429,255 @@
               "2",
               "[@imfx](https://github.com/imfx)/[**FFDropdownMenu**](https://github.com/imfx/FFDropdownMenu)",
               "Dropdown Menu Field using RMPickerViewController",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "305",
+              "[@crodas](https://github.com/crodas)/[**LanguageDetector**](https://github.com/crodas/LanguageDetector)",
+              "PHP Class to detect languages from any free text",
+              ""
+            ],
+            [
+              "152",
+              "[@crodas](https://github.com/crodas)/[**ActiveMongo**](https://github.com/crodas/ActiveMongo)",
+              "Simple and efficient ActiveRecord data abstraction for MongoDB",
+              "[:arrow_upper_right:](http://crodas.org/activemongo.php)"
+            ],
+            [
+              "141",
+              "[@crodas](https://github.com/crodas)/[**Haanga**](https://github.com/crodas/Haanga)",
+              "Template compiler for PHP, Django-style (as much as possible). Pretty efficent by avoiding to have anything at run-time.",
+              "[:arrow_upper_right:](http://haanga.org/)"
+            ],
+            [
+              "87",
+              "[@crodas](https://github.com/crodas)/[**TextRank**](https://github.com/crodas/TextRank)",
+              "extract relevant keywords from a given text",
+              ""
+            ],
+            [
+              "57",
+              "[@crodas](https://github.com/crodas)/[**InfluxPHP**](https://github.com/crodas/InfluxPHP)",
+              "Simple PHP client for InfluxDB",
+              ""
+            ],
+            [
+              "46",
+              "[@crodas](https://github.com/crodas)/[**php-git**](https://github.com/crodas/php-git)",
+              "Pure PHP script which allows to performs read-only operations plus repositories clone (over HTTP).",
+              "[:arrow_upper_right:](http://phpclasses.org/phpgit)"
+            ],
+            [
+              "38",
+              "[@crodas](https://github.com/crodas)/[**Notoj**](https://github.com/crodas/Notoj)",
+              "Yet another annotation parser (DocBlocks)",
+              ""
+            ],
+            [
+              "28",
+              "[@imroca](https://github.com/imroca)/[**Bancard**](https://github.com/imroca/Bancard)",
+              "Abstract simple Bancard API Client for PHP.",
+              "[:arrow_upper_right:](http://imroca.com)"
+            ],
+            [
+              "23",
+              "[@crodas](https://github.com/crodas)/[**MongoFS**](https://github.com/crodas/MongoFS)",
+              "PHP Streams Wrappers for MongoDB GridFS",
+              ""
+            ],
+            [
+              "16",
+              "[@crodas](https://github.com/crodas)/[**phpcluster**](https://github.com/crodas/phpcluster)",
+              "Unsupervised learning algorithm in PHP",
+              ""
+            ],
+            [
+              "12",
+              "[@crodas](https://github.com/crodas)/[**textrank-old**](https://github.com/crodas/textrank-old)",
+              "Class to extract relevant words from a given text",
+              ""
+            ],
+            [
+              "11",
+              "[@crodas](https://github.com/crodas)/[**Bancard**](https://github.com/crodas/Bancard)",
+              "Libreria para pagos con Bancard",
+              ""
+            ],
+            [
+              "10",
+              "[@crodas](https://github.com/crodas)/[**Autoloader**](https://github.com/crodas/Autoloader)",
+              "Proper autoloader for PHP",
+              ""
+            ],
+            [
+              "9",
+              "[@crodas](https://github.com/crodas)/[**SQLParser**](https://github.com/crodas/SQLParser)",
+              "SQL-Parser",
+              ""
+            ],
+            [
+              "9",
+              "[@crodas](https://github.com/crodas)/[**Dispatcher**](https://github.com/crodas/Dispatcher)",
+              "Creates an url dispatcher for your project",
+              ""
+            ],
+            [
+              "8",
+              "[@crodas](https://github.com/crodas)/[**WatchFiles**](https://github.com/crodas/WatchFiles)",
+              "Stateless way of watching files and directory for changes",
+              ""
+            ],
+            [
+              "7",
+              "[@crodas](https://github.com/crodas)/[**Artifex**](https://github.com/crodas/Artifex)",
+              "PHP Code generator for mere mortals",
+              ""
+            ],
+            [
+              "6",
+              "[@everdaniel](https://github.com/everdaniel)/[**codeigniter-project-…**](https://github.com/everdaniel/codeigniter-project-template)",
+              "A CodeIgniter project template",
+              ""
+            ],
+            [
+              "6",
+              "[@crodas](https://github.com/crodas)/[**Haanga2**](https://github.com/crodas/Haanga2)",
+              "Clean rewrite of crodas/Haanga :-). This isn't finish. It is just a repository to show the progress. Do not use it yet.",
+              ""
+            ],
+            [
+              "6",
+              "[@guhemama](https://github.com/guhemama)/[**worpdress-comment-re…**](https://github.com/guhemama/worpdress-comment-reply-email-notification)",
+              "Wordpress plugin that notifies a comment author when his comment receives a reply",
+              ""
+            ],
+            [
+              "6",
+              "[@crodas](https://github.com/crodas)/[**php-hadoop**](https://github.com/crodas/php-hadoop)",
+              "Simple PHP set of scripts to wrap Hadoop",
+              ""
+            ],
+            [
+              "6",
+              "[@crodas](https://github.com/crodas)/[**EasySQL**](https://github.com/crodas/EasySQL)",
+              "Easiest SQL abstraction ever. ",
+              ""
+            ],
+            [
+              "6",
+              "[@crodas](https://github.com/crodas)/[**ActiveMongo2**](https://github.com/crodas/ActiveMongo2)",
+              "PHP database abstraction for MongoDB",
+              ""
+            ],
+            [
+              "5",
+              "[@micayael](https://github.com/micayael)/[**com.micayael.blog.Se…**](https://github.com/micayael/com.micayael.blog.ServidorRestSilex)",
+              "Estructura básica para creación de un servidor REST utilizando el microframework Silex",
+              ""
+            ],
+            [
+              "5",
+              "[@crodas](https://github.com/crodas)/[**SimpleView**](https://github.com/crodas/SimpleView)",
+              "Simple view engine based on Laravel's Blade view Engine",
+              ""
+            ],
+            [
+              "5",
+              "[@crodas](https://github.com/crodas)/[**brhackday**](https://github.com/crodas/brhackday)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@crodas](https://github.com/crodas)/[**ClassInfo**](https://github.com/crodas/ClassInfo)",
+              "Get classes and functions defined in a given file",
+              ""
+            ],
+            [
+              "5",
+              "[@crodas](https://github.com/crodas)/[**Eath**](https://github.com/crodas/Eath)",
+              "Super simple package installer for PHP",
+              ""
+            ],
+            [
+              "5",
+              "[@crodas](https://github.com/crodas)/[**Haanga-web**](https://github.com/crodas/Haanga-web)",
+              "Haanga Web site source code",
+              "[:arrow_upper_right:](http://haanga.org/)"
+            ],
+            [
+              "5",
+              "[@crodas](https://github.com/crodas)/[**Phar-Builder**](https://github.com/crodas/Phar-Builder)",
+              "Build Phar like a boss",
+              ""
+            ],
+            [
+              "3",
+              "[@crodas](https://github.com/crodas)/[**framework**](https://github.com/crodas/framework)",
+              "Tiny framework that I use daily, it is basically my libraries glued all together",
+              ""
+            ],
+            [
+              "3",
+              "[@crodas](https://github.com/crodas)/[**SimpleAssetManager**](https://github.com/crodas/SimpleAssetManager)",
+              "Extremely simple asset manager for PHP",
+              ""
+            ],
+            [
+              "3",
+              "[@pabloacastillo](https://github.com/pabloacastillo)/[**Wordpress-PaypalPro-…**](https://github.com/pabloacastillo/Wordpress-PaypalPro-Plugin)",
+              "WebShop to make direct payments from your wordpress to your PaypalPro Account without leaving your site.",
+              "[:arrow_upper_right:](http://pabloacastillo.me/)"
+            ],
+            [
+              "2",
+              "[@adc91](https://github.com/adc91)/[**backend-google-maps**](https://github.com/adc91/backend-google-maps)",
+              "Plugin to add a Google Maps field in the October CMS Backend Forms",
+              "[:arrow_upper_right:](http://www.aldea.com.py)"
+            ],
+            [
+              "2",
+              "[@bernaldani](https://github.com/bernaldani)/[**QueComemos**](https://github.com/bernaldani/QueComemos)",
+              "Aplicacion de delivery encarnacion",
+              ""
+            ],
+            [
+              "2",
+              "[@pabloacastillo](https://github.com/pabloacastillo)/[**EmojiOne-integration…**](https://github.com/pabloacastillo/EmojiOne-integration-for-Contact-Form-7)",
+              "EmojiOne integration for Contact Form 7. The only way to get better answers, is to ask better questions.",
+              ""
+            ],
+            [
+              "2",
+              "[@crodas](https://github.com/crodas)/[**Validator**](https://github.com/crodas/Validator)",
+              "Generate static validators to validate your data in PHP.",
+              ""
+            ],
+            [
+              "2",
+              "[@deyperez](https://github.com/deyperez)/[**ati**](https://github.com/deyperez/ati)",
+              "Juntas podemos más",
+              ""
+            ],
+            [
+              "2",
+              "[@crodas](https://github.com/crodas)/[**old-Tuicha**](https://github.com/crodas/old-Tuicha)",
+              "Simple mongodb abstraction for PHP. Tuicha means huge (humongous) in Guarani.",
               ""
             ]
           ]
